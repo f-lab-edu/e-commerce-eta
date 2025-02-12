@@ -1,0 +1,20 @@
+{
+  "hub:1": {
+    "name": "남서울HUB터미널",
+    "full_address": "서울특별시 금천구 가산디지털2로 83",
+    "latitude": 37.475378,
+    "longitude": 126.880446
+  },
+  "hub:2": {
+    "name": "동서울HUB터미널",
+    "full_address": "서울 송파구 송파대로 55",
+    "latitude": 37.037914,
+    "longitude": 127.151532
+  },
+  "hub:3": {
+    "name": "안성HUB터미널",
+    "full_address": "경기도 안성시 원곡면 남북대로 1108",
+    "latitude": 37.037914,
+    "longitude": 127.151532
+  }
+}
